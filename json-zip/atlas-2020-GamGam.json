@@ -26,7 +26,7 @@
     "experiment": "ATLAS",
     "files": [
       {
-        "checksum": "1362142662:1594567234",
+        "checksum": "adler32:f9845b57",
         "size": 1594567234,
         "uri": "root://eospublic.cern.ch//eos/opendata/atlas/OutreachDatasets/2020-02-10/GamGam.zip"
       }

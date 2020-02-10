@@ -17,7 +17,7 @@
         "experiment": "ATLAS",
         "files": [
           {
-            "checksum": "1721702965:3674951680",
+            "checksum": "adler32:110e8443",
             "size": 3674951680,
             "uri": "root://eospublic.cern.ch//eos/opendata/atlas/OutreachDatasets/2020-02-10/opendata-vm-ubuntu-2020-v2.ova"
           }

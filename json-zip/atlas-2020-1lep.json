@@ -19,25 +19,24 @@
     ],
     "date_published": "2020",
     "distribution": {
-      "number_files": 3,
-      "size": 0000000000
+      "number_files": 3
     },
     "doi": "",
     "experiment": "ATLAS",
     "files": [
       {
-        "checksum": "0000000000:0000000000",
-        "size": 0000000000,
+        "checksum": "adler32:bf939150",
+        "size": 17981370629,
         "uri": "root://eospublic.cern.ch//eos/opendata/atlas/OutreachDatasets/2020-02-10/Data-1lep.zip"
       }
       {
-        "checksum": "0000000000:0000000000",
-        "size": 0000000000,
+        "checksum": "adler32:9439fca6",
+        "size": 21271623033,
         "uri": "root://eospublic.cern.ch//eos/opendata/atlas/OutreachDatasets/2020-02-10/MC-1-1lep.zip"
       }
       {
-        "checksum": "0000000000:0000000000",
-        "size": 0000000000,
+        "checksum": "adler32:bc4343a3",
+        "size": 22202561913,
         "uri": "root://eospublic.cern.ch//eos/opendata/atlas/OutreachDatasets/2020-02-10/MC-2-1lep.zip"
       }
     ],
