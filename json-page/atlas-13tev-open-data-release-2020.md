@@ -16,10 +16,11 @@ Alongside impressive new open datasets, the ATLAS Collaboration has also release
  
 One of the most exciting features of the new ATLAS Open Data release is its ability to put learners in the role of the ‘discoverer’. “For the first time, students will be able to ‘re-discover’ the Higgs boson (in three different decay channels) and can even search through the data for physics beyond the Standard Model, such as Dark Matter” explains Kate Shaw, co-leader of the ATLAS Open Data team (University of Sussex, UK). “These new avenues for study will greatly enhance understanding of the experimental side of data analysis - a particular advantage for budding researchers.”
 
-The ATLAS Open Data team worked closely with students and teachers during the development, carefully curating the release to ensure that students get the best educational experience straight out of the box. “We wanted to build upon our experience with the 8 TeV open data release by providing more complex physics analyses for study and shortening the required setup process,” says Leonid Serkin of the ATLAS Open Data team (University of Udine, ICTP and INFN, Italy). “This time, students can access the datasets, write analysis code and begin producing results within minutes with the help of cloud computing and tools such as the CERN ROOT analysis framework. The millions of independent 13 TeV collision events can thus be analysed from almost any commercial computer.” 
-Enriching global physics education
+The ATLAS Open Data team worked closely with students and teachers during the development, carefully curating the release to ensure that students get the best educational experience straight out of the box. “We wanted to build upon our experience with the [8 TeV open data release](https://atlas.cern/updates/atlas-news/explore-lhc-data-new-atlas-educational-platform) by providing more complex physics analyses for study and shortening the required setup process,” says Leonid Serkin of the ATLAS Open Data team (University of Udine, ICTP and INFN, Italy). “This time, students can access the datasets, write analysis code and begin producing results within minutes with the help of cloud computing and tools such as the [CERN ROOT](https://root.cern.ch/) analysis framework. The millions of independent 13 TeV collision events can thus be analysed from almost any commercial computer.” 
+
+## Enriching global physics education
  
-Every year, hundreds of students on every continent explore ATLAS Open Data as part of their curriculum. Their scope can range from one-day high-school projects to in-depth analyses for their [Master’s thesis]().
+Every year, hundreds of students on every continent explore ATLAS Open Data as part of their curriculum. Their scope can range from one-day high-school projects to in-depth analyses for their [Master’s thesis](https://atlas.cern/updates/atlas-blog/HEP-education-worldwide-with-atlas-open-data).
 
 For example, at the University of Montréal, Canada, Jean-François Arguin uses ATLAS Open Data to reproduce a more realistic research environment for his second-year undergraduate students. “It makes a welcome change from learning from books, which is how physics is traditionally taught,” he explains. “Using ATLAS Open Data, the students spend three weeks recreating the major particle discoveries of the late twentieth century: the Z boson, W boson and top quark. The process develops their skills as researchers, which are not always correlated to the ones they develop through traditional courses.” 
 
@@ -32,3 +33,10 @@ While the world takes its first look at 13 TeV open data, the ATLAS Collaboratio
 ---
 
 * *ATLAS Open Data has been incorporated into the curriculums of multiple universities, including: Maastricht University (Belgium); University of Montréal (Canada); Industrial University of Santander (Colombia); University of Athens (Greece); TU Dresden and TU Dortmund (Germany); University of Valencia (Spain); KTH Royal Institute of Technology and Lund University (Sweden); University of Oslo (Norway); LIP (Portugal), CERN (Switzerland), University of Manchester, University of Sussex, University of Birmingham and Queen Mary University of London (UK); University of Michigan, Ohio State University and California State University (USA); University of the Andes, Central University of Venezuela and Simón Bolívar University (Venezuela).*
+
+
+### Learn more
+
+* [https://atlas.cern/resources/opendata](https://atlas.cern/resources/opendata)
+* [http://opendata.atlas.cern/release/2020/documentation](http://opendata.atlas.cern/release/2020/documentation)
+* [https://atlas.cern/updates/atlas-news/explore-lhc-data-new-atlas-educational-platform](https://atlas.cern/updates/atlas-news/explore-lhc-data-new-atlas-educational-platform)
