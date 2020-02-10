@@ -26,7 +26,7 @@
     "experiment": "ATLAS",
     "files": [
       {
-        "checksum": "0000000000:0000000000",
+        "checksum": "4261651205:22413502932",
         "size": 22413502932,
         "uri": "root://eospublic.cern.ch//eos/opendata/atlas/OutreachDatasets/2020-02-10/exactly2lep.zip"
       }
