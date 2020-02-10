@@ -1,7 +1,7 @@
 [
     {
         "abstract": {
-          "description": "<p> This Virtual Machine (VM) allows you to obtain a computer environment that emulate as much as possible that one use for a particle physicist.\n      Each VM contain ROOT as base software plus the Jupyter Notebooks for data analysis. </p> "
+          "description": "<p> This Virtual Machine (VM) allows you to obtain a computer environment that emulates a data analysis environment as those used by particle physicists.\n      The VM contains ROOT as base software, Pythons and Jupyter notebook for data analysis.</p> "
         },
         "accelerator": "CERN-LHC",
         "collaboration": {
