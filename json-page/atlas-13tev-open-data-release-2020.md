@@ -3,7 +3,6 @@
 
 
 ![ATLAS Open Data](./13Tev-ATLAS-Opendata.gif)
-*animation using [ROOTJS](67f38ec99d1235433fbbb5a3815f869fb6d690cd)* 
 
 *Geneva, 11 February*. The ATLAS Collaboration at CERN has just released the first open dataset from the Large Hadron Collider’s (LHC) highest-energy run at 13 teraelectronvolts (TeV). The new release is specially developed for science education, underlining the Collaboration’s long-standing commitment to students and teachers using open-access ATLAS data and related tools. 
  
@@ -41,3 +40,5 @@ While the world takes its first look at 13 TeV open data, the ATLAS Collaboratio
 * [https://atlas.cern/resources/opendata](https://atlas.cern/resources/opendata)
 * [http://opendata.atlas.cern/release/2020/documentation](http://opendata.atlas.cern/release/2020/documentation)
 * [https://atlas.cern/updates/atlas-news/explore-lhc-data-new-atlas-educational-platform](https://atlas.cern/updates/atlas-news/explore-lhc-data-new-atlas-educational-platform)
+
+*Animation using [ROOTJS](https://root.cern.ch/js/)* 
